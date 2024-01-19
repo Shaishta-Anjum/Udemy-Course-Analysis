@@ -11,7 +11,7 @@ A Power BI project offering insights into Udemy course trends
 - Aimed to uncover revenue trends and identify top-performing courses while providing a comprehensive understanding of user behavior.
 
 ## Insights
-- Web development courses stand out as a major revenue driver on Udemy.
+- Web Development courses lead in revenue, with the top two earners also from this category
 - All Level courses generates high revenue, highlighting their popularity and financial success.
 - Even Paid courses attract a higher number of subscribers, indicating a strong interest and willingness to invest in educational content.
 - The year 2015 recorded the highest number of subscribers enrolling in courses, showcasing a peak in user engagement during that period.

@@ -1,6 +1,5 @@
 # Udemy Course Analysis
-A Power BI project offering insights into Udemy course trends
-
+A Power BI project offering insights into Udemy course trends.
 - Explored four key performance indicators (KPIs): total revenue, total number of courses, average course price, and total number of subscribers.
 - Visualized top 5 courses by revenue for quick identification of high performers.
 - Projected total revenue distribution by subject and level for strategic insights.
